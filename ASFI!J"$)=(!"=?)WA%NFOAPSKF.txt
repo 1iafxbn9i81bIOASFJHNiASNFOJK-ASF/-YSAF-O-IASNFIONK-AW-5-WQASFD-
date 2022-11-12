@@ -2,8 +2,3 @@ local uids =
 {
 371446
 }
-
-local usernames =
-{
-m0nsterJ
-}
